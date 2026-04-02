@@ -1,0 +1,14 @@
+.env
+.venv/
+.venv-win/
+key.txt
+openrouter.key
+balance.txt
+logs/
+__pycache__/
+*/__pycache__/
+.pytest_cache/
+tests/_tmp_logs/
+*.pyc
+*.pyo
+*.pyd
